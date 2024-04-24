@@ -60,11 +60,11 @@ I'm a dedicated Full Stack Developer driven by a passion for crafting exceptiona
 
 ## Projects 🚀
 
-### Dish Discovery
+### [Dish Discovery](https://new-dish-discovery.vercel.app/)
 - A web application for recipe exploration built using MongoDB, Express.js, Next Js, and Node.js. 
 - Features include Redux for state management and an appealing user interface.
 
-### Indian Online Shopping Mall
+### [Indian Online Shopping Mall](https://iosm.netlify.app/)
 - A responsive e-commerce site built with the MERN stack, featuring CRUD operations, Redux Toolkit for state management, and security measures like OTP verification and JWT tokens.
 
 ### Chat Application (In Progress)
