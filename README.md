@@ -87,5 +87,5 @@ I'm a dedicated Full Stack Developer driven by a passion for crafting exceptiona
 
 ## Contact Me 📫
 
-- **Email:** [shailendratrivedi009@gmail.com](shailendratrivedi009@gmail.com)
+- **Email:** shailendratrivedi009@gmail.com
 - **LinkedIn:** [shailendratrivedi009](https://www.linkedin.com/in/shailendratrivedi009/)
