@@ -60,11 +60,11 @@ I'm a dedicated Full Stack Developer driven by a passion for crafting exceptiona
 
 ## Projects 🚀
 
-###  <a href="[https://www.linkedin.com/in/shailendratrivedi009/](https://new-dish-discovery.vercel.app/)" target="_blank">Dish Discovery</a>
+### [Dish Discovery](https://new-dish-discovery.vercel.app/) 
 - A web application for recipe exploration built using MongoDB, Express.js, Next Js, and Node.js. 
 - Features include Redux for state management and an appealing user interface.
 
-### <a href="https://iosm.netlify.app/" target="_blank">Indian Online Shopping Mall</a>
+### [Indian Online Shopping Mall](https://iosm.netlify.app/)
 - A responsive e-commerce site built with the MERN stack, featuring CRUD operations, Redux Toolkit for state management, and security measures like OTP verification and JWT tokens.
 
 ### Chat Application (In Progress)
@@ -74,19 +74,16 @@ I'm a dedicated Full Stack Developer driven by a passion for crafting exceptiona
 ## Education 🎓
 
 - Bachelor Of Technology in Electronics and Communication Engineering from Shri Ramswaroop Memorial College of Engineering and Management (2024) with a CGPA of 6.5.
-
-- XII(CBSE)  from New Public Inter College (2020) with an 87%.
-
-- X(CBSE)  from New Public Inter College (2020) with an 87%.
+- XII (CBSE) from New Public Inter College (2020) with an 87%.
+- X (CBSE) from New Public Inter College (2018) with a 78%.
 
 ## Hobbies 🎮
 
 - Playing Chess, Table Tennis, and Badminton
 - Watching anime: Favorites include Demon Slayer, Jujutsu Kaisen, and My Hero Academia
-- Designing a creative website in Figma during my free time
+- Designing creative website layouts in Figma during my free time
 
 ## Contact Me 📫
 
 - **Email:** shailendratrivedi009@gmail.com
-- **LinkedIn:** <a href="https://www.linkedin.com/in/shailendratrivedi009/" target="_blank">shailendratrivedi009</a>
-
+- **LinkedIn:** [shailendratrivedi009](https://www.linkedin.com/in/shailendratrivedi009/){:target="_blank"}
