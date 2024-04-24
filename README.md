@@ -60,11 +60,11 @@ I'm a dedicated Full Stack Developer driven by a passion for crafting exceptiona
 
 ## Projects 🚀
 
-### [Dish Discovery](https://new-dish-discovery.vercel.app/)
+###  <a href="[https://www.linkedin.com/in/shailendratrivedi009/](https://new-dish-discovery.vercel.app/)" target="_blank">Dish Discovery</a>
 - A web application for recipe exploration built using MongoDB, Express.js, Next Js, and Node.js. 
 - Features include Redux for state management and an appealing user interface.
 
-### [Indian Online Shopping Mall](https://iosm.netlify.app/)
+### <a href="https://iosm.netlify.app/" target="_blank">Indian Online Shopping Mall</a>
 - A responsive e-commerce site built with the MERN stack, featuring CRUD operations, Redux Toolkit for state management, and security measures like OTP verification and JWT tokens.
 
 ### Chat Application (In Progress)
@@ -88,4 +88,5 @@ I'm a dedicated Full Stack Developer driven by a passion for crafting exceptiona
 ## Contact Me 📫
 
 - **Email:** shailendratrivedi009@gmail.com
-- **LinkedIn:** [shailendratrivedi009](https://www.linkedin.com/in/shailendratrivedi009/)
+- **LinkedIn:** <a href="https://www.linkedin.com/in/shailendratrivedi009/" target="_blank">shailendratrivedi009</a>
+
