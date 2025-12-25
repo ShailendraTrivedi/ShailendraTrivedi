@@ -112,19 +112,6 @@ Full-Stack Software Engineer with **2+ years of experience** in software develop
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShailendraTrivedi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShailendraTrivedi&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=ShailendraTrivedi&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
-</div>
-
----
-
 ## 🎓 Education
 
 ### 🎓 Bachelor of Technology in Electronics and Communication Engineering
