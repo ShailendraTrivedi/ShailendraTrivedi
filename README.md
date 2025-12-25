@@ -27,7 +27,7 @@ Full-Stack Software Engineer with **2+ years of experience** in software develop
 
 ## 💼 Professional Experience
 
-### 🔹 Software Engineer | **Solulever**
+### 🔹 Full-Stack Software Developer | **Solulever**
 **January 2025 - Present**
 
 - Developed full-stack web applications using **React**, **Next.js**, **Redux**, **JavaScript**, **TypeScript** for frontend, and **Java**, **Spring Boot**, **RESTful APIs** for backend
@@ -35,7 +35,7 @@ Full-Stack Software Engineer with **2+ years of experience** in software develop
 - Implemented **RBAC (Role-Based Access Control)** system in both backend and frontend using JWT and React, managing multiple user roles and permissions
 - Built **app builder platform** with drag-and-drop functionality for both frontend and backend, enabling dynamic app design and configuration
 
-### 🔹 Full Stack Developer | **Cryptonet Technologies Private Limited**
+### 🔹 Full-Stack Software Developer | **Cryptonet Technologies Private Limited**
 **August 2024 - December 2024**
 
 - Developed real-time backend systems and web applications using **Node.js**, **Express.js**, **WebSockets**, and event-driven architecture
@@ -43,20 +43,20 @@ Full-Stack Software Engineer with **2+ years of experience** in software develop
 - Deployed and maintained backend applications on **AWS EC2** and **AWS S3** using **Docker** containerization
 - Implemented **CI/CD pipelines** with environment-based configuration, ensuring **99.9% uptime** for production systems
 
-### 🔹 Full Stack Developer Intern | **Cryptonet Technologies Private Limited**
+### 🔹 Full-Stack Software Developer Intern | **Cryptonet Technologies Private Limited**
 **May 2024 - July 2024**
 
 - Built real-time multiplayer backend systems using **Node.js**, **Express.js**, **Socket.IO**, and event-driven architecture
 - Developed reliable server-side game state management system using state machine patterns
 
-### 🔹 Full Stack Developer Intern | **RapidQuest**
+### 🔹 Full-Stack Software Developer Intern | **RapidQuest**
 **February 2024 - April 2024**
 
 - Developed AI-powered conversational chatbot using **JavaScript**, **Node.js**, and **OpenAI API**, reducing support response time by **60%**
 - Built and integrated custom **Shopify e-commerce** applications
 - Implemented **CI/CD pipelines** using **Docker** and **AWS EC2** for automated deployment
 
-### 🔹 Full Stack Developer Intern | **Mahendravijay InfoTech**
+### 🔹 Full-Stack Software Developer Intern | **Mahendravijay InfoTech**
 **August 2023 - January 2024**
 
 - Developed full-stack consultation and appointment booking platform using **React**, **Next.js**, **JavaScript**, and **MongoDB**
