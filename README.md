@@ -1,89 +1,169 @@
-# Hey, I'm Shailendra Trivedi 👋
+<div align="center">
 
-I'm a dedicated Full Stack Developer driven by a passion for crafting exceptional digital experiences. With a Bachelor's in Electronics and Communication Engineering, I've embarked on an exciting journey in technology, eager to explore its limitless possibilities. 
+# 👋 Hi there, I'm Shailendra Trivedi
 
-## Toolbox 🛠️
+### Full-Stack Software Engineer | Crafting Digital Excellence
 
-**Programming Languages:** Java, Python
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailendratrivedi009/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shailendratrivedi009@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShailendraTrivedi)
 
-### Frontend Development
-- HTML
-- CSS
-- JavaScript
-- ReactJS
-- NextJS
-- Tailwind CSS
-- Redux
-- Redux Toolkit
-- Material-UI
-- Framer-Motion
+---
 
-### Backend Development
-- NodeJS
-- ExpressJS
-- MongoDB
-- Firebase
-- Web2py
+</div>
 
-### Cloud Services & Deployment
-- AWS EC2 Instance
-- Docker
-- CI/CD pipeline
-- GitHub
-- Git Action
-- Git Webhook
+## 🎯 About Me
 
-### Payment Gateways
-- Stripe
-- Razorpay
+Full-Stack Software Engineer with **2+ years of experience** in software development, web application development, and enterprise platform development. Passionate about building scalable, high-quality software solutions and delivering exceptional digital experiences.
 
-### Testing & Quality Assurance
-- Cypress
-- Postman
+**Key Highlights:**
+- 🚀 Optimized frontend build time by **54%** (13 min → 6 min)
+- ⚡ Improved server response time by **50%** using Redis caching
+- 🔒 Implemented RBAC systems with JWT authentication
+- 🎨 Built drag-and-drop app builder platforms
+- 📈 Achieved **99.9%** uptime for production systems
 
-### Design Tools
-- Figma
+---
 
-## Experience 💼
+## 💼 Professional Experience
 
-### Full Stack Developer (Internship) - RapidQuest (Jan 2024 - Apr 2024)
-- Spearheaded the development of a sophisticated chatbot using OpenAI and NLP techniques in Python.
-- Led the development of a Web2py application with a comprehensive tech stack including HTML, CSS, JavaScript, Python, and CI/CD pipelines for deployment on AWS EC2 instances.
+### 🔹 Software Engineer | **Solulever**
+**January 2025 - Present**
 
-### MERN Stack Developer (Internship) - Mahendravijay InfoTech (Aug 2023 - Jan 2024)
-- Played a pivotal role in client projects using technologies like HTML, CSS, JavaScript, ReactJS, Redux Toolkit, NodeJS, ExpressJS, and MongoDB.
-- Implemented end-to-end testing with Cypress and integrated payment gateways like Stripe and Razorpay for e-commerce platforms.
+- Developed full-stack web applications using **React**, **Next.js**, **Redux**, **JavaScript**, **TypeScript** for frontend, and **Java**, **Spring Boot**, **RESTful APIs** for backend
+- **Optimized frontend build time by 54%** (from 13 minutes to 6 minutes) through code optimization, webpack bundle splitting, and build configuration improvements
+- Implemented **RBAC (Role-Based Access Control)** system in both backend and frontend using JWT and React, managing multiple user roles and permissions
+- Built **app builder platform** with drag-and-drop functionality for both frontend and backend, enabling dynamic app design and configuration
 
-### Teacher Assistant (Internship) - Coding Ninja (Nov 2022 - Feb 2023)
-- Mentored students on data structures and algorithms, enhancing their understanding and coding skills.
-- Developed effective teaching strategies resulting in improved academic performance.
+### 🔹 Full Stack Developer | **Cryptonet Technologies Private Limited**
+**August 2024 - December 2024**
 
-## Projects 🚀
+- Developed real-time backend systems and web applications using **Node.js**, **Express.js**, **WebSockets**, and event-driven architecture
+- Implemented **Redis caching layer** for low-latency data caching, improving server response time by **50%** for high-frequency real-time updates
+- Deployed and maintained backend applications on **AWS EC2** and **AWS S3** using **Docker** containerization
+- Implemented **CI/CD pipelines** with environment-based configuration, ensuring **99.9% uptime** for production systems
 
-### [Dish Discovery](https://new-dish-discovery.vercel.app/) 
-- A web application for recipe exploration built using MongoDB, Express.js, Next Js, and Node.js. 
-- Features include Redux for state management and an appealing user interface.
+### 🔹 Full Stack Developer Intern | **Cryptonet Technologies Private Limited**
+**May 2024 - July 2024**
 
-### [Indian Online Shopping Mall](https://iosm.netlify.app/)
-- A responsive e-commerce site built with the MERN stack, featuring CRUD operations, Redux Toolkit for state management, and security measures like OTP verification and JWT tokens.
+- Built real-time multiplayer backend systems using **Node.js**, **Express.js**, **Socket.IO**, and event-driven architecture
+- Developed reliable server-side game state management system using state machine patterns
 
-### Chat Application (In Progress)
-- A feature-rich chat application with an emphasis on high-quality audio/video calls, secure messaging, and user-friendly design. 
-- Features include personalized 1-1 chats, group video/audio calls, and secure messaging.
+### 🔹 Full Stack Developer Intern | **RapidQuest**
+**February 2024 - April 2024**
 
-## Education 🎓
+- Developed AI-powered conversational chatbot using **JavaScript**, **Node.js**, and **OpenAI API**, reducing support response time by **60%**
+- Built and integrated custom **Shopify e-commerce** applications
+- Implemented **CI/CD pipelines** using **Docker** and **AWS EC2** for automated deployment
 
-- Bachelor Of Technology in Electronics and Communication Engineering from Shri Ramswaroop Memorial College of Engineering and Management (2024) with a CGPA of 6.5.
-- XII (CBSE) from New Public Inter College (2020) with an 87%.
-- X (CBSE) from New Public Inter College (2018) with a 78%.
+### 🔹 Full Stack Developer Intern | **Mahendravijay InfoTech**
+**August 2023 - January 2024**
 
-## Hobbies 🎮
+- Developed full-stack consultation and appointment booking platform using **React**, **Next.js**, **JavaScript**, and **MongoDB**
+- Integrated secure payment processing systems using **Razorpay** and **Stripe** with **99.8% success rate**
 
-- Playing Chess, Table Tennis, and Badminton
-- Watching anime: Favorites include Demon Slayer, Jujutsu Kaisen, and My Hero Academia
-- Designing creative website layouts in Figma during my free time
+---
 
-## Contact Me 📫
+## 🛠️ Technical Skills
 
-- **Email:** shailendratrivedi009@gmail.com
-- **LinkedIn:** [shailendratrivedi009](https://www.linkedin.com/in/shailendratrivedi009/)
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 Frontend Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Saga](https://img.shields.io/badge/Redux_Saga-999999?style=for-the-badge&logo=redux-saga&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend Technologies
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful_API-FF6F00?style=for-the-badge&logo=rest&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### 🗄️ Databases & Caching
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### 💳 Payment Gateways
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-3395FF?style=for-the-badge&logo=razorpay&logoColor=white)
+
+### 🧪 Testing & Tools
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShailendraTrivedi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShailendraTrivedi&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=ShailendraTrivedi&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+</div>
+
+---
+
+## 🎓 Education
+
+### 🎓 Bachelor of Technology in Electronics and Communication Engineering
+**Shri Ramswaroop Memorial College of Engineering and Management** | *2024*  
+**CGPA:** 6.5/10
+
+### 📚 XII (CBSE)
+**New Public Inter College** | *2020*  
+**CGPA:** 8.7/10
+
+### 📚 X (CBSE)
+**New Public Inter College** | *2018*  
+**CGPA:** 7.8/10
+
+---
+
+## 🎮 Hobbies & Interests
+
+- ♟️ **Chess** - Strategic thinking and problem-solving
+- 🏓 **Table Tennis & Badminton** - Staying active and competitive
+- 🎌 **Anime** - Favorites: Demon Slayer, Jujutsu Kaisen, My Hero Academia
+- 🎨 **UI/UX Design** - Creating creative website layouts in Figma
+
+---
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailendratrivedi009/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shailendratrivedi009@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShailendraTrivedi)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Code is like humor. When you have to explain it, it's bad." ⚡
+
+**Thanks for visiting!** 👋
+</div>
