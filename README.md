@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Shailendra Trivedi
 
-### Full-Stack Software Engineer | Crafting Digital Excellence
+### Full-Stack Software Developer | Crafting Digital Excellence
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailendratrivedi009/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shailendratrivedi009@gmail.com)
@@ -14,7 +14,7 @@
 
 ## 🎯 About Me
 
-Full-Stack Software Engineer with **2+ years of experience** in software development, web application development, and enterprise platform development. Passionate about building scalable, high-quality software solutions and delivering exceptional digital experiences.
+Full-Stack Software Developer with **2+ years of experience** in software development, web application development, and enterprise platform development. Passionate about building scalable, high-quality software solutions and delivering exceptional digital experiences.
 
 **Key Highlights:**
 - 🚀 Optimized frontend build time by **54%** (13 min → 6 min)
