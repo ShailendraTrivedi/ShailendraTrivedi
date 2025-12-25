@@ -62,6 +62,12 @@ Full-Stack Software Engineer with **2+ years of experience** in software develop
 - Developed full-stack consultation and appointment booking platform using **React**, **Next.js**, **JavaScript**, and **MongoDB**
 - Integrated secure payment processing systems using **Razorpay** and **Stripe** with **99.8% success rate**
 
+### 🔹 Teaching Assistant (Internship) | **Coding Ninjas**
+**November 2022 - February 2023**
+
+- Assisted students in the acquisition of **Data Structures and Algorithms (DSA)** by resolving coding queries and elucidating concepts
+- Enhanced analytical and problem-solving abilities by resolving a variety of DSA issues
+
 ---
 
 ## 🛠️ Technical Skills
