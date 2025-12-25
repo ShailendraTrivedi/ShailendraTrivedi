@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Shailendra Trivedi
 
-### Full-Stack Software Developer | Crafting Digital Excellence
+### Java Full-Stack Software Developer | Crafting Digital Excellence
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailendratrivedi009/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shailendratrivedi009@gmail.com)
